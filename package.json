@@ -1,7 +1,7 @@
 {
   "name": "let-me-paginate",
   "version": "1.0.1",
-  "description": "Un package TypeScript/NestJS robuste pour la pagination avec architecture clean et système de cache intégré",
+  "description": "Un package TypeScript/NestJS robuste pour la pagination avec architecture clean et système de cache intégré ",
   "author": "Your Name",
   "private": false,
   "license": "MIT",
