@@ -1,6 +1,6 @@
 {
   "name": "let-me-paginate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Un package TypeScript/NestJS robuste pour la pagination avec architecture clean et système de cache intégré",
   "author": "Your Name",
   "private": false,
@@ -54,7 +54,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/let-me-paginate.git"
+    "url": "https://github.com/elom354/let-me-paginate"
   },
   "scripts": {
     "build": "nest build",
